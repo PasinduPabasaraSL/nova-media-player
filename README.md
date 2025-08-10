@@ -11,11 +11,30 @@ A sleek, professional web media player with a dark theme, built using HTML, CSS,
 - Loading spinner while buffering  
 - Keyboard shortcuts: Space (play/pause), F (fullscreen), M (mute)
 
-## Usage
+---
 
-1. Clone or download  
-2. Open `index.html` in a modern browser  
-3. Load media and enjoy!
+## Prerequisites
+
+- [Node.js](https://nodejs.org/) installed  
+- npm comes bundled with Node.js  
+
+---
+
+## Setup & Run
+
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/PasinduPabasaraSL/nova-media-player.git
+   cd nova-media-player
+
+2. Install dependencies:
+   ```
+   bashnpm install
+   
+3. Run the app with Electron:
+   ```
+   npm start
+
 
 ## License
 
