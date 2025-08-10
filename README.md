@@ -22,16 +22,19 @@ A sleek, professional web media player with a dark theme, built using HTML, CSS,
 
 ## Setup & Run
 
-1. Clone this repo:  
+1. Clone this repo:
+   
    ```bash
    git clone https://github.com/PasinduPabasaraSL/nova-media-player.git
    cd nova-media-player
 
-2. Install dependencies:
+3. Install dependencies:
+   
    ```
    bashnpm install
    
-3. Run the app with Electron:
+5. Run the app with Electron:
+   
    ```
    npm start
 
